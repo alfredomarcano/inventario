@@ -9,7 +9,7 @@
 </head>
 <body>
 	<article>
-	<h1>Sistema de Inventarios</h1>
+	<h1>Sistema de Inventarios gfasvdnsajdndsaj</h1>
 
             <ul class="flex-container">
                 <li class="flex-item menu1">
