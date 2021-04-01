@@ -42,19 +42,36 @@ $conexion = mysqli_connect('localhost', 'root', '', 'entrevista');
                 </a>
             </li>
             <li>
+                <a href="">
                     <i class="far fa-arrow-alt-circle-down icon6"></i>
                     <h4 class="text6">Desincorporar</h4>
+                </a>
             </li>
             <li>
+                <a href="">
                     <i class="far fa-file-pdf icon7"></i>
                     <h4 class="text7">Reportes</h4>
+                </a>
             </li>
             <li>
+                <a href="">
                     <i class="far fa-envelope icon8"></i>
                     <h4 class="text7">Mensajes</h4>
+                </a>
             </li>
-            <li><i class="fas fa-sign-out-alt icon9"></i><h4 class="text8">Sesion</h4></li>
-            <!-- <li><i class="fa fa-question-circle icon9"></i><h4 class="text9">Nosotros</h4></li> -->
+            <li>
+                <a href="">
+                    <i class="fas fa-sign-out-alt icon9"></i>
+                    <h4 class="text8">Sesion</h4>
+                </a>
+            </li>
+            
+            <li>
+                <a href="">
+                    <i class="fa fa-question-circle icon9"></i>
+                    <h4 class="text9">Nosotros</h4>
+                </a>
+            </li>
 
         </div>
         <article>
