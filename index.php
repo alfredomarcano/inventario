@@ -65,14 +65,6 @@ $conexion = mysqli_connect('localhost', 'root', '', 'entrevista');
                     <h4 class="text8">Sesion</h4>
                 </a>
             </li>
-            
-            <li>
-                <a href="">
-                    <i class="fa fa-question-circle icon9"></i>
-                    <h4 class="text9">Nosotros</h4>
-                </a>
-            </li>
-
         </div>
         <article>
             <iframe name="frame" id="frame" class="ventana" src="inicio.php" width="100%" height="830px" frameborder="0" scrolling="no"></iframe>
